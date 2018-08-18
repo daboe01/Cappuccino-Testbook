@@ -144,3 +144,4 @@
 1526702320864|TestTableColumn|
 1526702320866|VariableRows|
 1526702320868|ViewBasedCib|
+1526702320869|CPSearchFieldPredicateBinding|
